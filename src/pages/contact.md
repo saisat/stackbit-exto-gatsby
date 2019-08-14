@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Contact-page-title
+subtitle: Contact-page-subtitle
 menus:
   main:
     title: Contact
     weight: 5
 template: contact
 ---
-
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+Send me an email  (saisat at gmail dot com) if you want to book me for a speaking engagement or if you need support in turning your digital ideas into reality.
