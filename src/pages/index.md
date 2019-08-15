@@ -37,36 +37,39 @@ sections:
         title: 'Marketing products, exploring growth levers.'
       - content: "Coach\n\nI\_advise and mentor their portfolio companies in how to excel at product management"
         title: Leadership
-    subtitle: Competencies and Skills
-    title: Expertise
+    subtitle: Expertise
+    title: Product Management Leader
     type: servicesblock
   - component: PortfolioBlock
     layout_style: mosaic
     num_projects_displayed: 6
     section_id: latest-projects
     subtitle: 'Keynotes, Seminars, Discussion Panels'
-    title: Though Leadership
+    title: Product Speaker
     type: portfolioblock
-    view_all_text: View All
+    view_all_text: ''
     view_all_url: portfolio/index.html
   - actions:
-      - label: View Blog
-        url: blog/index.html
+      - label: View Blog on Medium
+        url: 'https://medium.com/@productwonk'
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Latest from the Blog
     type: postsblock
   - component: TestimonialsBlock
     section_id: testimonials
     subtitle: An optional subtitle of the section
     testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
+      - author: Arindam Chakraborty
+        avatar: /images/arincamc.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Sai possesses a great mix of technical depth, passion for building
+          great products and deep empathy for his customers and for his
+          product’s users. This has enabled him to conceive, develop and launch
+          several successful software products, deployed by marquee customers
+          worldwide.
       - author: Jane Roe
         avatar: images/jane_roe.jpg
         content: >-
