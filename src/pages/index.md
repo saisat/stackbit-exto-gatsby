@@ -70,21 +70,19 @@ sections:
           product’s users. This has enabled him to conceive, develop and launch
           several successful software products, deployed by marquee customers
           worldwide.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
+      - author: Mentee at a Stealth Startup
+        avatar: /images/nobody.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Sai is exceptionally observant. His deep experience and understanding
+          of products landscape is evident in every interaction with him. He is
+          not only quick to understand what is being presented but also can
+          consistently get a 360 degree view of elements in the projects and the
+          teams. He can see several possibilities at the same time and can
+          patiently entertain all the ideas while being practical about it. I
+          look forward to be associated and learn from him in the future.
+          Personally, I am a fan of his keen perception and accurate synthesis. 
     title: Testimonials
     type: testimonialsblock
-  - component: ContactBlock
-    section_id: contact
-    subtitle: >-
-      Send me an email if you want to book me for a speaking engagement or if
-      you need support in turning your digital ideas into reality
-    title: Get in Touch
-    type: contactblock
 menus:
   main:
     title: Home
