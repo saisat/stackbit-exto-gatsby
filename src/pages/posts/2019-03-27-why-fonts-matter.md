@@ -1,12 +1,12 @@
 ---
-title: Why Fonts Matter
-date: '2019-03-27'
-thumb_img_path: images/12.jpg
-content_img_path: images/12.jpg
+title: Top 3 skills to demonstrate Product Thinking
+date: 2018-06-29T18:30:00.000Z
+thumb_img_path: /images/3skills.jpg
+content_img_path: /images/3skills.jpg
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem turpis at.
+  Among the many core skills and soft skills (‘dark arts’) involved in the
+  Business of Products, here is my list of top 3 specific skills to demonstrate
+  Product thinking in no particular order.
 template: post
 ---
 
