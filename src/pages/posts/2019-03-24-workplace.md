@@ -1,12 +1,15 @@
 ---
-title: The Elements of Great Workplace Design
-date: '2019-03-24'
-thumb_img_path: images/11.jpg
+title: >-
+  How a changing Indian IT industry is influencing Product Manager and Product
+  Leader hiring
+date: 2018-06-18T18:30:00.000Z
+thumb_img_path: /images/pm.jpg
 content_img_path: images/11.jpg
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
-  accumsan vis phasellus adipiscing. 
+  Lets face it. Your impressive resume is becoming less relevant when it comes
+  to seeking interesting career opportunities. Technology companies in India are
+  increasingly looking for demonstrable skills and are asking candidates to
+  ‘show and tell’ as part of their hiring process.
 template: post
 ---
 
