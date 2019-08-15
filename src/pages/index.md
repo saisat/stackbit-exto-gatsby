@@ -49,10 +49,10 @@ sections:
     type: portfolioblock
     view_all_text: 'Contact Me'
     view_all_url: contact/index.html
-  - actions:
+  - component: PostsBlock
+    actions:
       - label: View Blog on Medium
         url: 'https://medium.com/@productwonk'
-    component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
     subtitle: ''
