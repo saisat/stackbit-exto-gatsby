@@ -5,7 +5,10 @@ sections:
     content: >-
       My personal mission for the past years has been to help large and small
       companies from different industries applying digital technologies faster
-      and developing products resulting in happier, better-served customers
+      and developing products resulting in happier, better-served customers.
+      Know more [about me here](about/index.html). You can [contact me this way](contact/index.html).
+
+
     section_id: hero
     title: 'Hi, I''m Sai! '
     type: heroblock
