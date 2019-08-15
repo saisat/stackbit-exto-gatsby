@@ -47,8 +47,8 @@ sections:
     subtitle: 'Keynotes, Seminars, Discussion Panels'
     title: Product Speaker
     type: portfolioblock
-    view_all_text: ''
-    view_all_url: portfolio/index.html
+    view_all_text: 'Contact Me'
+    view_all_url: contact/index.html
   - actions:
       - label: View Blog on Medium
         url: 'https://medium.com/@productwonk'
@@ -80,7 +80,7 @@ sections:
           teams. He can see several possibilities at the same time and can
           patiently entertain all the ideas while being practical about it. I
           look forward to be associated and learn from him in the future.
-          Personally, I am a fan of his keen perception and accurate synthesis. 
+          Personally, I am a fan of his keen perception and accurate synthesis.
     title: Testimonials
     type: testimonialsblock
 menus:
@@ -89,4 +89,3 @@ menus:
     weight: 1
 template: home
 ---
-

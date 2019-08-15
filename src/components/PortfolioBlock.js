@@ -13,7 +13,7 @@ export default class PortfolioBlock extends React.Component {
               <div class="inner">
                 <div class="block-header">
                   <h2 class="block-title line-top">{_.get(this.props, 'section.title')}</h2>
-                  {_.get(this.props, 'section.subtitle') && 
+                  {_.get(this.props, 'section.subtitle') &&
                   <p class="block-subtitle">
                     {htmlToReact(_.get(this.props, 'section.subtitle'))}
                   </p>
@@ -24,18 +24,18 @@ export default class PortfolioBlock extends React.Component {
                     {
                     _.map(recent_projects, (post, post_idx) => (
                     <article key={post_idx} class="post project">
-                      {(post_idx === post_len - 1) ? 
+                      {(post_idx === post_len - 1) ?
                       <Link to={_.get(this.props, 'section.view_all_url')} class="post-link">
-                        {_.get(post, 'frontmatter.thumb_img_path') && 
+                        {_.get(post, 'frontmatter.thumb_img_path') &&
                         <div class="post-thumbnail">
                           <img class="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
                         </div>
                         }
                         <span class="view-all">{_.get(this.props, 'section.view_all_text') || 'View All'}</span>
                       </Link>
-                       : 
+                       :
                       <Link to={safePrefix(_.get(post, 'url'))} class="post-link">
-                        {_.get(post, 'frontmatter.thumb_img_path') && 
+                        {_.get(post, 'frontmatter.thumb_img_path') &&
                         <div class="post-thumbnail">
                           <img class="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
                         </div>
