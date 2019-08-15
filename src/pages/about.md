@@ -1,10 +1,10 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+title: About SaiSatish Vedam
+subtitle: ''
+img_path: /images/sai_new_1.jpg
 menus:
   main:
-    title: About
+    title: About Me
     weight: 4
 template: page
 ---
