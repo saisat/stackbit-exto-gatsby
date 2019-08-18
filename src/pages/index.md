@@ -3,9 +3,9 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      My personal mission for the past years has been to help large and small
-      companies from different industries applying digital technologies faster
-      and developing products resulting in happier, better-served customers.
+      A <mark>Product management leader</mark> in India with 21+ years experience in building large scale disruptive technology products for the enterprise and leading high performance product teams.
+      <mark>My mission</mark> for the past few years has been to help build design driven, user centred technological products for the Communications Industry to accelerate digital transformation initiatives resulting in happier, better served customers. I am also a frequent
+      <mark>Product speaker</mark> and a Product leadership <mark>Coach</mark>.
       Know more [about me here](about/index.html). You can [contact me this way](contact/index.html).
 
 
@@ -21,14 +21,14 @@ sections:
           questions. I lead companies from vision to application of new
           technologies, resulting in stronger digital capabilities. These range
           from efficient processes to new customer exploration.
-        title: Realizing innovation and technology strategies.
+        title: Building the right Products
       - content: >-
           Whether you need a prototype, a MVP for your idea or a new feature, I
           help you test your digital ideas, valdiate your business model
           assumptions and create, design and build products that inspire people.
           The result of my work are tested and usable new products or features
           like chatbots, apps, platforms, websites, campaigns etc
-        title: Building and developing digital products.
+        title: Building the Products right
       - content: >-
           Interacting with digital products and technologies is highly effected
           by the context of use, by a person's emotions and attitudes about
@@ -37,9 +37,9 @@ sections:
           several disciplines, like marketing channel exploration, customer and
           user journey analytics, information architecture, content strategy,
           usability testing or user experience design
-        title: 'Marketing products, exploring growth levers.'
-      - content: "Coach\n\nI\_advise and mentor their portfolio companies in how to excel at product management"
-        title: Leadership
+        title: Targeting the right Markets
+      - content: "Far too many people are simply placed in Product management roles without much clarity, competencies and very few tools needed to succeed at it. I am honoured and humbled by my experience in setting up high performing product management teams, coaching product managers to excel in their role and mentor hundreds of aspiring product managers in Indian tech industry"
+        title: Building and leading high performing teams
     subtitle: Expertise
     title: Product Management Leader
     type: servicesblock
@@ -47,7 +47,7 @@ sections:
     layout_style: mosaic
     num_projects_displayed: 6
     section_id: latest-projects
-    subtitle: 'Keynotes, Seminars, Discussion Panels'
+    subtitle: 'From building the right Products to building the Products right'
     title: Product Speaker
     type: portfolioblock
     view_all_text: 'Contact Me'
